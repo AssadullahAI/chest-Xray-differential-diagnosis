@@ -1,8 +1,10 @@
 streamlit==1.22.0
-tensorflow==2.20.0
+tensorflow==2.15.0
 numpy
 pandas
 Pillow
 gdown
 requests
 protobuf==3.20.3
+
+
