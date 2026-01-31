@@ -1,5 +1,8 @@
+streamlit==1.22.0
 tensorflow==2.20.0
 numpy
 pandas
-streamlit
+Pillow
 gdown
+requests
+protobuf==3.20.3
